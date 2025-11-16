@@ -1,0 +1,7 @@
+```
+my_bool = True 
+my_bool = False
+
+bool(0)     # => False
+bool(1)     # => True
+```
