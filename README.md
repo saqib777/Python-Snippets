@@ -1,4 +1,7 @@
-# Python Snippets
+<div align= "center"> 
+  
+  # Python Snippets
+</div>
 
 A collection of small, focused Python code snippets that cover common operations, quick utilities, and frequently used logic. This repository serves as a fast reference for learning, revision, and real-world coding tasks.
 
