@@ -3,7 +3,7 @@
   # Python Snippets
 </div>
 
-A collection of small, focused Python code snippets that cover common operations, quick utilities, and frequently used logic. This repository serves as a fast reference for learning, revision, and real-world coding tasks.
+A collection of small, focused Python code snippets that cover common operations, quick utilities, and frequently used logic. This repository serves as a fast reference for learning, revision, and real, world coding tasks.
 
 Each file contains a short, self-contained example demonstrating a single concept or operation.
 
