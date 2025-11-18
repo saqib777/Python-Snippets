@@ -9,7 +9,7 @@ Each file contains a short, self-contained example demonstrating a single concep
 
 ## Why This Repository Exists
 
-While learning and practicing Python, certain patterns and operations appear repeatedly—data manipulation, formatting, searching, sorting, conversions, and more. Instead of searching online every time, this repo became a curated library of quick snippets.
+While learning and practicing Python, certain patterns and operations appear repeatedly, data manipulation, formatting, searching, sorting, conversions, and more. Instead of searching online every time, this repo became a curated library of quick snippets.
 
 It helps with:
 
